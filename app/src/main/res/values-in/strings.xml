@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyKatalogMovie</string>
+    <string name="search">Cari</string>
+    <string name="rating">Peringkat</string>
+    <string name="duration">Durasi</string>
+    <string name="language">Bahasa</string>
+    <string name="genre">Genre</string>
+    <string name="released">Rilis</string>
+    <string name="overview">Sinopsis</string>
+    <string name="hello_blank_fragment">hallo fragment kosong</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="up_coming">Akan Tayang</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="setting">Ganti Bahasa</string>
+    <string name="setting_reminder">Pengaturan Pengingat</string>
+    <string name="favorite">Favorit</string>
+    <string name="reminder_daily">reminder_daily</string>
+    <string name="release_reminder">release_reminder</string>
+    <string name="miss_daily">hai movie katalog merindukanmu</string>
+    <string name="reminder_on">Pengingat Tayang Hidup</string>
+    <string name="reminder_off">Pengingat Tayang Mati</string>
+    <string name="daily_on">Pengingat Harian Hidup</string>
+    <string name="daily_off">Pengingat Harian Mati</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_movie">Film Favorit</string>
+    <string name="data_empty">Data Kosong</string>
+</resources>

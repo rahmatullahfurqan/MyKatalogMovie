@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyKatalogMovie</string>
+    <string name="search">Search</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="language">Language</string>
+    <string name="genre">Genre</string>
+    <string name="released">Released</string>
+    <string name="overview">Overview</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="up_coming">Up coming</string>
+    <string name="now_playing">Now playing</string>
+    <string name="setting">Change Language</string>
+    <string name="setting_reminder">Setting Reminder</string>
+    <string name="favorite">Favorite</string>
+    <string name="reminder_daily">reminder_daily</string>
+    <string name="release_reminder">release_reminder</string>
+    <string name="miss_daily">hey movie katalog missing you</string>
+    <string name="reminder_on">Release Reminder On</string>
+    <string name="reminder_off">Release Reminder Off</string>
+    <string name="daily_on">Daily Reminder on</string>
+    <string name="daily_off">Daily Reminder off</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="data_empty">Data Empty</string>
+</resources>
